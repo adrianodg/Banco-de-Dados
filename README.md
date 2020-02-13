@@ -1,1 +1,3 @@
-# Data base operations on MySQL
+# Data base creation on MySQL
+
+# Simple operations examples 
